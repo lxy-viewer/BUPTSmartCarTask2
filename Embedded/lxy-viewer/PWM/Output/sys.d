@@ -1,0 +1,10 @@
+..\Output\sys.o: ..\Driver\system\sys\sys.c
+..\Output\sys.o: ..\Driver\system\sys\sys.h
+..\Output\sys.o: ..\main\stm32l1xx.h
+..\Output\sys.o: C:\Keil_v4\ARM\CMSIS\Include\core_cm3.h
+..\Output\sys.o: C:\Keil_v4\ARM\ARMCC\bin\..\include\stdint.h
+..\Output\sys.o: ..\Driver\led\core_cmInstr.h
+..\Output\sys.o: C:\Keil_v4\ARM\CMSIS\Include\core_cmFunc.h
+..\Output\sys.o: C:\Keil_v4\ARM\Inc\ST\STM32L1xx\system_stm32l1xx.h
+..\Output\sys.o: ..\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_conf.h
+..\Output\sys.o: ..\main\general_type.h

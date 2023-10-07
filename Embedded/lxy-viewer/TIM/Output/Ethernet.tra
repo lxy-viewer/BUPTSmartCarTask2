@@ -1,0 +1,52 @@
+*** Creating Trace Output File '..\Output\Ethernet.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"..\output\startup_stm32l1xx_md.o"'
+### List of Objects: adding '"..\output\misc.o"'
+### List of Objects: adding '"..\output\stm32l1xx_adc.o"'
+### List of Objects: adding '"..\output\stm32l1xx_aes.o"'
+### List of Objects: adding '"..\output\stm32l1xx_aes_util.o"'
+### List of Objects: adding '"..\output\stm32l1xx_comp.o"'
+### List of Objects: adding '"..\output\stm32l1xx_crc.o"'
+### List of Objects: adding '"..\output\stm32l1xx_dac.o"'
+### List of Objects: adding '"..\output\stm32l1xx_dbgmcu.o"'
+### List of Objects: adding '"..\output\stm32l1xx_dma.o"'
+### List of Objects: adding '"..\output\stm32l1xx_exti.o"'
+### List of Objects: adding '"..\output\stm32l1xx_flash.o"'
+### List of Objects: adding '"..\output\stm32l1xx_fsmc.o"'
+### List of Objects: adding '"..\output\stm32l1xx_gpio.o"'
+### List of Objects: adding '"..\output\stm32l1xx_i2c.o"'
+### List of Objects: adding '"..\output\stm32l1xx_iwdg.o"'
+### List of Objects: adding '"..\output\stm32l1xx_lcd.o"'
+### List of Objects: adding '"..\output\stm32l1xx_opamp.o"'
+### List of Objects: adding '"..\output\stm32l1xx_pwr.o"'
+### List of Objects: adding '"..\output\stm32l1xx_rcc.o"'
+### List of Objects: adding '"..\output\stm32l1xx_rtc.o"'
+### List of Objects: adding '"..\output\stm32l1xx_sdio.o"'
+### List of Objects: adding '"..\output\stm32l1xx_spi.o"'
+### List of Objects: adding '"..\output\stm32l1xx_syscfg.o"'
+### List of Objects: adding '"..\output\stm32l1xx_tim.o"'
+### List of Objects: adding '"..\output\stm32l1xx_usart.o"'
+### List of Objects: adding '"..\output\stm32l1xx_wwdg.o"'
+### List of Objects: adding '"..\output\main.o"'
+### List of Objects: adding '"..\output\system_stm32l1xx.o"'
+### List of Objects: adding '"..\output\stm32l1xx_it.o"'
+### List of Objects: adding '"..\output\led.o"'
+### List of Objects: adding '"..\output\delay.o"'
+### List of Objects: adding '"..\output\sys.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 "..\output\startup_stm32l1xx_md.o" "..\output\misc.o" "..\output\stm32l1xx_adc.o" "..\output\stm32l1xx_aes.o" "..\output\stm32l1xx_aes_util.o" "..\output\stm32l1xx_comp.o" "..\output\stm32l1xx_crc.o" "..\output\stm32l1xx_dac.o" "..\output\stm32l1xx_dbgmcu.o" "..\output\stm32l1xx_dma.o" "..\output\stm32l1xx_exti.o" "..\output\stm32l1xx_flash.o" "..\output\stm32l1xx_fsmc.o" "..\output\stm32l1xx_gpio.o" "..\output\stm32l1xx_i2c.o" "..\output\stm32l1xx_iwdg.o" "..\output\stm32l1xx_lcd.o" "..\output\stm32l1xx_opamp.o" "..\output\stm32l1xx_pwr.o" "..\output\stm32l1xx_rcc.o" "..\output\stm32l1xx_rtc.o" "..\output\stm32l1xx_sdio.o" "..\output\stm32l1xx_spi.o" "..\output\stm32l1xx_syscfg.o" "..\output\stm32l1xx_tim.o" "..\output\stm32l1xx_usart.o" "..\output\stm32l1xx_wwdg.o" "..\output\main.o" "..\output\system_stm32l1xx.o" "..\output\stm32l1xx_it.o" "..\output\led.o" "..\output\delay.o" "..\output\sys.o" 
+--strict --scatter "..\Output\Ethernet.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Ethernet.map" -o ..\Output\Ethernet.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '..\Output\Ethernet.axf'
+### ADS-LD Command File: '..\Output\Ethernet.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '..\Output\Ethernet.lnp', Handle=0x00000174
+### Writing '.lnp' file
+### ADS-LD Command file '..\Output\Ethernet.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
